@@ -4,9 +4,9 @@
 
 ### iOS apps · App Store
 
-- [平生 Hiwik Life](https://apps.apple.com/app/id6763250273) — Bills, assets, health, fitness, notes and todos in one app. Snap a payment screenshot, AI turns it into a ledger entry. [Site](https://vitae.hiwik.cn)
+- [平生 Vitae](https://apps.apple.com/app/id6763250273) — Bills, assets, health, fitness, notes and todos in one app. Snap a payment screenshot, AI turns it into a ledger entry. [Site](https://vitae.hiwik.cn)
 - [萌宠日记](https://apps.apple.com/app/id6759037476) — A growth journal for your cats and dogs, shared with the whole family. [Site](https://cutepet.hiwik.cn)
-- [MoonLog](https://apps.apple.com/app/id6758563196) — An AI trading journal. It doesn't pick stocks; it scores your discipline and shows your habits.
+- [MoonLog](https://apps.apple.com/app/id6758563196) — An AI trading journal. It doesn't pick stocks; it scores your discipline and shows your habits. [Site](https://redhiwik.github.io/moonlog-site/)
 
 ### Agent skills
 
