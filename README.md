@@ -8,6 +8,10 @@
 - [萌宠日记](https://apps.apple.com/app/id6759037476) — A growth journal for your cats and dogs, shared with the whole family. [Site](https://cutepet.hiwik.cn)
 - [MoonLog](https://apps.apple.com/app/id6758563196) — An AI trading journal. It doesn't pick stocks; it scores your discipline and shows your habits. [Site](https://redhiwik.github.io/moonlog-site/)
 
+### Open source
+
+- [HiwiKInsight](https://github.com/RedHiwiK/HiwiKInsight) — Self-hosted product analytics and App Store revenue for indie iOS apps: one Go binary with SQLite, a Swift SDK ([hiwikinsight-ios](https://github.com/RedHiwiK/hiwikinsight-ios)), email reports and alerts, and a read-only query layer AI agents can use through a CLI or MCP.
+
 ### Agent skills
 
 - [apple-app-store-release](https://github.com/RedHiwiK/apple-app-store-release) — End-to-end App Store release skill for Claude Code / Codex: metadata, privacy manifest, signing, TestFlight, review prep, marketing screenshots.
